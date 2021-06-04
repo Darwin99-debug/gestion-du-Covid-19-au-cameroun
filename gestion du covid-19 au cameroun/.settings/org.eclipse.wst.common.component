@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="gestion du covid-19 au cameroun">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="gestion_du_covid-19_au_cameroun"/>
+        <property name="java-output-path" value="/gestion du covid-19 au cameroun/build/classes"/>
+    </wb-module>
+</project-modules>
